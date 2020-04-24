@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My_Quiz</string>
+    <string name="lightning">Lightning never strikes in the same place twice</string>
+    <string name="space">If you cry in space the tears just stick to your face.</string>
+    <string name="earthworm">If you cut an earthworm in half, both halves can regrow their body.</string>
+    <string name="smell">Humans can distinguish between over a trillion different smells.</string>
+    <string name="bones">Adults have fewer bones than babies do</string>
+    <string name="napolean">Napoleon Bonaparte was extremely short</string>
+    <string name="goldfish">Goldfish only have a memory of three seconds</string>
+    <string name="bacteria">There are more cells of bacteria in your body than there are human cells.</string>
+    <string name="nails">Your fingernails and hair keep growing after you die.</string>
+    <string name="birds">Birds are dinosaurs</string>
+
+
+
+</resources>
